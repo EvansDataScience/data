@@ -1,181 +1,181 @@
-ISO,country,scorepress
-FIN,Finland,8.59
-NLD,Netherlands,8.76
-NOR,Norway,8.79
-DNK,Denmark,8.89
-NZL,New Zealand,10.01
-CRI,Costa Rica,11.1
-CHE,Switzerland,11.76
-SWE,Sweden,12.33
-IRL,Ireland,12.4
-JAM,Jamaica,12.45
-AUT,Austria,13.18
-SVK,Slovakia,13.26
-BEL,Belgium,14.18
-EST,Estonia,14.31
-LUX,Luxembourg,14.43
-DEU,Germany,14.8
-NAM,Namibia,15.15
-CAN,Canada,15.26
-ISL,Iceland,15.3
-URY,Uruguay,15.88
-CZE,Czech Republic,16.66
-SUR,Suriname,16.7
-PRT,Portugal,17.27
-LVA,Latvia,17.38
-AUS,Australia,17.84
-GHA,Ghana,17.95
-CYP,Cyprus,18.26
-LIE,Liechtenstein,18.36
-WSM,Samoa,18.8
-XCD,OECS,18.91
-CHL,Chile,19.23
-CPV,Cape Verde,19.82
-AND,Andorra,19.87
-ESP,Spain,19.92
-LTU,Lithuania,19.95
-BLZ,Belize,20.61
-TON,Tonga,21.24
-GBR,United Kingdom,21.7
-ZAF,South Africa,21.92
-SVN,Slovenia,22.26
-USA,United States,22.49
-BFA,Burkina Faso,22.66
-BWA,Botswana,22.91
-TTO,Trinidad and Tobago,23.29
-FRA,France,23.83
-MLT,Malta,23.84
-POL,Poland,23.89
-MRT,Mauritania,24.03
-ROU,Romania,24.29
-COM,Comoros,24.33
-TWN,Taiwan,24.37
-NER,Niger,24.62
-HTI,Haiti,24.66
-ARG,Argentina,25.09
-PNG,Papua New Guinea,25.81
-MDG,Madagascar,27.04
-GUY,Guyana,27.07
-SLV,El Salvador,27.2
-SRB,Serbia,27.6
-MNG,Mongolia,27.61
-MUS,Mauritius,27.69
-DOM,Dominican Republic,27.9
-HRV,Croatia,27.91
-GEO,Georgia,27.96
-SEN,Senegal,27.99
-MWI,Malawi,28.12
-HUN,Hungary,28.17
-BIH,Bosnia and Herzegovina,28.45
-HKG,Hong Kong,28.5
-KOR,South Korea,28.58
-TZA,Tanzania,28.65
-JPN,Japan,28.67
-LSO,Lesotho,28.78
-ARM,Armenia,28.79
-NIC,Nicaragua,28.82
-MDA,Moldova,28.83
-ITA,Italy,28.93
-BEN,Benin,28.97
-GNB,Guinea-Bissau,29.03
-FJI,Fiji,29.37
-CTU,Cyprus North,29.54
-ALB,Albania,29.92
-SLE,Sierra Leone,29.94
-PER,Peru,29.99
-KGZ,Kyrgyzstan,30.16
-CIV,Ivory Coast,30.17
-MOZ,Mozambique,30.25
-TGO,Togo,30.31
-GRC,Greece,30.35
-XKO,Kosovo,30.5
-PAN,Panama,30.59
-SYC,Seychelles,30.6
-LBR,Liberia,30.71
-BTN,Bhutan,30.73
-KEN,Kenya,31.16
-TUN,Tunisia,31.6
-BOL,Bolivia,31.78
-LBN,Lebanon,31.95
-TLS,East Timor,32.02
-GAB,Gabon,32.2
-ISR,Israel,32.58
-UGA,Uganda,32.58
-KWT,Kuwait,32.59
-NPL,Nepal,32.62
-BRA,Brazil,32.62
-MNE,Montenegro,32.79
-UKR,Ukraine,32.93
-GIN,Guinea,33.08
-ECU,Ecuador,33.21
-CAF,Central African Republic,33.6
-PRY,Paraguay,33.63
-MDV,Maldives,34.17
-BGR,Bulgaria,34.46
-ZMB,Zambia,35.08
-COG,Congo,35.84
-NGA,Nigeria,35.9
-QAT,Qatar,35.97
-MKD,Macedonia,36.09
-ARE,United Arab Emirates,36.73
-AFG,Afghanistan,37.75
-GTM,Guatemala,38.03
-MLI,Mali,39.83
-AGO,Angola,39.89
-ZWE,Zimbabwe,40.41
-OMN,Oman,40.43
-CMR,Cameroon,40.53
-TCD,Chad,40.59
-KHM,Cambodia,40.7
-DZA,Algeria,41.69
-IDN,Indonesia,41.72
-MAR,Morocco,42.64
-PSE,Palestine,42.93
-IND,India,43.17
-COL,Colombia,44.11
-JOR,Jordan,44.49
-THA,Thailand,44.53
-HND,Honduras,44.62
-PHL,Philippines,44.66
-VEN,Venezuela,44.77
-SSD,South Sudan,44.87
-LKA,Sri Lanka,44.96
-ETH,Ethiopia,45.13
-MMR,Myanmar,45.48
-BGD,Bangladesh,45.94
-GMB,Gambia,46.53
-MYS,Malaysia,46.57
-PAK,Pakistan,48.52
-RUS,Russian Federation,49.03
-MEX,Mexico,49.33
-TJK,Tajikistan,50.34
-TUR,Turkey,50.76
-COD,The Democratic Republic Of The Congo,50.97
-SWZ,Swaziland,52.37
-SGP,Singapore,52.96
-BRN,Brunei Darussalam,53.85
-BDI,Burundi,54.1
-BLR,Belarus,54.32
-IRQ,Iraq,54.35
-EGY,Egypt,54.45
-KAZ,Kazakhstan,54.55
-RWA,Rwanda,54.61
-BHR,Bahrain,54.86
-AZE,Azerbaijan,57.89
-LBY,Libya,57.89
-SAU,Saudi Arabia,59.72
-UZB,Uzbekistan,61.15
-SOM,Somalia,65.35
-GNQ,Equatorial Guinea,66.47
-IRN,Islamic Republic of Iran,66.52
-YEM,Yemen,67.07
-CUB,Cuba,70.23
-DJI,Djibouti,70.9
-LAO,Lao People's Democratic Republic,71.58
-SDN,Sudan,72.53
-VNM,Vietnam,74.27
-CHN,China,80.96
-SYR,Syrian Arab Republic,81.35
-TKM,Turkmenistan,83.44
-PRK,Democratic People's Republic of Korea,83.76
-ERI,Eritrea,83.92
+ISO,Country,scorepress,presscat
+FIN,Finland,8.59,High
+NLD,Netherlands,8.76,High
+NOR,Norway,8.79,High
+DNK,Denmark,8.89,High
+NZL,New Zealand,10.01,High
+CRI,Costa Rica,11.1,High
+CHE,Switzerland,11.76,High
+SWE,Sweden,12.33,High
+IRL,Ireland,12.4,High
+JAM,Jamaica,12.45,High
+AUT,Austria,13.18,High
+SVK,Slovakia,13.26,High
+BEL,Belgium,14.18,High
+EST,Estonia,14.31,High
+LUX,Luxembourg,14.43,High
+DEU,Germany,14.8,High
+NAM,Namibia,15.15,High
+CAN,Canada,15.26,High
+ISL,Iceland,15.3,High
+URY,Uruguay,15.88,High
+CZE,Czech Republic,16.66,High
+SUR,Suriname,16.7,High
+PRT,Portugal,17.27,High
+LVA,Latvia,17.38,High
+AUS,Australia,17.84,High
+GHA,Ghana,17.95,High
+CYP,Cyprus,18.26,High
+LIE,Liechtenstein,18.36,High
+WSM,Samoa,18.8,High
+XCD,OECS,18.91,High
+CHL,Chile,19.23,High
+CPV,Cape Verde,19.82,High
+AND,Andorra,19.87,High
+ESP,Spain,19.92,High
+LTU,Lithuania,19.95,High
+BLZ,Belize,20.61,High
+TON,Tonga,21.24,High
+GBR,United Kingdom,21.7,High
+ZAF,South Africa,21.92,High
+SVN,Slovenia,22.26,High
+USA,United States,22.49,High
+BFA,Burkina Faso,22.66,High
+BWA,Botswana,22.91,High
+TTO,Trinidad and Tobago,23.29,High
+FRA,France,23.83,High
+MLT,Malta,23.84,Medium
+POL,Poland,23.89,Medium
+MRT,Mauritania,24.03,Medium
+ROU,Romania,24.29,Medium
+COM,Comoros,24.33,Medium
+TWN,Taiwan,24.37,Medium
+NER,Niger,24.62,Medium
+HTI,Haiti,24.66,Medium
+ARG,Argentina,25.09,Medium
+PNG,Papua New Guinea,25.81,Medium
+MDG,Madagascar,27.04,Medium
+GUY,Guyana,27.07,Medium
+SLV,El Salvador,27.2,Medium
+SRB,Serbia,27.6,Medium
+MNG,Mongolia,27.61,Medium
+MUS,Mauritius,27.69,Medium
+DOM,Dominican Republic,27.9,Medium
+HRV,Croatia,27.91,Medium
+GEO,Georgia,27.96,Medium
+SEN,Senegal,27.99,Medium
+MWI,Malawi,28.12,Medium
+HUN,Hungary,28.17,Medium
+BIH,Bosnia and Herzegovina,28.45,Medium
+HKG,Hong Kong,28.5,Medium
+KOR,South Korea,28.58,Medium
+TZA,Tanzania,28.65,Medium
+JPN,Japan,28.67,Medium
+LSO,Lesotho,28.78,Medium
+ARM,Armenia,28.79,Medium
+NIC,Nicaragua,28.82,Medium
+MDA,Moldova,28.83,Medium
+ITA,Italy,28.93,Medium
+BEN,Benin,28.97,Medium
+GNB,Guinea-Bissau,29.03,Medium
+FJI,Fiji,29.37,Medium
+CTU,Cyprus North,29.54,Medium
+ALB,Albania,29.92,Medium
+SLE,Sierra Leone,29.94,Medium
+PER,Peru,29.99,Medium
+KGZ,Kyrgyzstan,30.16,Medium
+CIV,Ivory Coast,30.17,Medium
+MOZ,Mozambique,30.25,Medium
+TGO,Togo,30.31,Medium
+GRC,Greece,30.35,Medium
+XKO,Kosovo,30.5,Medium
+PAN,Panama,30.59,Medium
+SYC,Seychelles,30.6,Medium
+LBR,Liberia,30.71,Medium
+BTN,Bhutan,30.73,Medium
+KEN,Kenya,31.16,Medium
+TUN,Tunisia,31.6,Medium
+BOL,Bolivia,31.78,Medium
+LBN,Lebanon,31.95,Medium
+TLS,East Timor,32.02,Medium
+GAB,Gabon,32.2,Medium
+ISR,Israel,32.58,Medium
+UGA,Uganda,32.58,Medium
+KWT,Kuwait,32.59,Medium
+NPL,Nepal,32.62,Medium
+BRA,Brazil,32.62,Medium
+MNE,Montenegro,32.79,Medium
+UKR,Ukraine,32.93,Medium
+GIN,Guinea,33.08,Medium
+ECU,Ecuador,33.21,Medium
+CAF,Central African Republic,33.6,Medium
+PRY,Paraguay,33.63,Medium
+MDV,Maldives,34.17,Medium
+BGR,Bulgaria,34.46,Medium
+ZMB,Zambia,35.08,Medium
+COG,Congo,35.84,Medium
+NGA,Nigeria,35.9,Medium
+QAT,Qatar,35.97,Medium
+MKD,Macedonia,36.09,Medium
+ARE,United Arab Emirates,36.73,Medium
+AFG,Afghanistan,37.75,Medium
+GTM,Guatemala,38.03,Medium
+MLI,Mali,39.83,Medium
+AGO,Angola,39.89,Medium
+ZWE,Zimbabwe,40.41,Medium
+OMN,Oman,40.43,Medium
+CMR,Cameroon,40.53,Medium
+TCD,Chad,40.59,Medium
+KHM,Cambodia,40.7,Medium
+DZA,Algeria,41.69,Medium
+IDN,Indonesia,41.72,Medium
+MAR,Morocco,42.64,Medium
+PSE,Palestine,42.93,Medium
+IND,India,43.17,Medium
+COL,Colombia,44.11,Medium
+JOR,Jordan,44.49,Medium
+THA,Thailand,44.53,Low
+HND,Honduras,44.62,Low
+PHL,Philippines,44.66,Low
+VEN,Venezuela,44.77,Low
+SSD,South Sudan,44.87,Low
+LKA,Sri Lanka,44.96,Low
+ETH,Ethiopia,45.13,Low
+MMR,Myanmar,45.48,Low
+BGD,Bangladesh,45.94,Low
+GMB,Gambia,46.53,Low
+MYS,Malaysia,46.57,Low
+PAK,Pakistan,48.52,Low
+RUS,Russian Federation,49.03,Low
+MEX,Mexico,49.33,Low
+TJK,Tajikistan,50.34,Low
+TUR,Turkey,50.76,Low
+COD,The Democratic Republic Of The Congo,50.97,Low
+SWZ,Swaziland,52.37,Low
+SGP,Singapore,52.96,Low
+BRN,Brunei Darussalam,53.85,Low
+BDI,Burundi,54.1,Low
+BLR,Belarus,54.32,Low
+IRQ,Iraq,54.35,Low
+EGY,Egypt,54.45,Low
+KAZ,Kazakhstan,54.55,Low
+RWA,Rwanda,54.61,Low
+BHR,Bahrain,54.86,Low
+AZE,Azerbaijan,57.89,Low
+LBY,Libya,57.89,Low
+SAU,Saudi Arabia,59.72,Low
+UZB,Uzbekistan,61.15,Low
+SOM,Somalia,65.35,Low
+GNQ,Equatorial Guinea,66.47,Low
+IRN,Islamic Republic of Iran,66.52,Low
+YEM,Yemen,67.07,Low
+CUB,Cuba,70.23,Low
+DJI,Djibouti,70.9,Low
+LAO,Lao People's Democratic Republic,71.58,Low
+SDN,Sudan,72.53,Low
+VNM,Vietnam,74.27,Low
+CHN,China,80.96,Low
+SYR,Syrian Arab Republic,81.35,Low
+TKM,Turkmenistan,83.44,Low
+PRK,Democratic People's Republic of Korea,83.76,Low
+ERI,Eritrea,83.92,Low
