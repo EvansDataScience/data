@@ -1,0 +1,77 @@
+Country,Region,FH,RWB,ONI
+Afghanistan,Asia,74.0,37.36,ne
+Algeria,Africa,62.0,36.54,ne
+Armenia,Eurasia,65.0,28.04,sub
+Australia,Oceania,21.0,15.24,ne
+Azerbaijan,Eurasia,80.0,47.73,sel
+Bahrain,Asia,84.0,62.75,per
+Bangladesh,Asia,52.0,42.01,ne
+Belarus,Europe,93.0,48.35,sel
+Canada,NAmerica,19.0,12.69,ne
+China,Asia,85.0,73.07,per
+Colombia,SAmerica,55.0,37.48,ne
+Croatia,Europe,40.0,26.61,ne
+Cuba,NAmerica,91.0,71.64,nd
+Denmark,Europe,12.0,7.08,ne
+Egypt,Africa,57.0,48.66,ne
+Ethiopia,Africa,81.0,39.57,per
+Finland,Europe,10.0,6.38,ne
+France,Europe,24.0,21.6,ne
+Georgia,Eurasia,52.0,30.09,sel
+Germany,Europe,17.0,10.24,ne
+Guatemala,NAmerica,60.0,29.39,ne
+Hungary,Europe,36.0,26.09,ne
+India,Asia,37.0,41.22,sel
+Indonesia,Asia,49.0,41.05,sel
+Iran,Asia,92.0,73.4,per
+Iraq,Asia,69.0,44.67,ne
+Israel,Asia,30.0,32.97,ne
+Italy,Europe,33.0,26.11,ne
+Jordan,Asia,63.0,38.47,sel
+Kazakhstan,Eurasia,81.0,55.08,sel
+Kuwait,Asia,57.0,28.28,sel
+Kyrgyzstan,Asia,69.0,32.2,sel
+Laos,Asia,84.0,67.99,ne
+Latvia,Europe,27.0,22.89,ne
+Lebanon,Asia,51.0,30.15,ne
+Libya,Africa,60.0,37.86,sel
+Malaysia,Asia,63.0,42.73,ne
+Mauritania,Africa,52.0,26.76,sel
+Mexico,NAmerica,62.0,45.3,ne
+Moldova,Europe,54.0,26.01,sel
+Morocco,Africa,68.0,39.04,ne
+Myanmar,Asia,85.0,44.71,sel
+Nepal,Asia,55.0,34.61,ne
+Nigeria,Africa,50.0,34.11,ne
+North Korea,Asia,97.0,83.9,nd
+Norway,Europe,10.0,6.52,ne
+Oman,Asia,71.0,41.51,sel
+Pakistan,Asia,63.0,51.31,sel
+Palestinian territories,Asia,83.0,43.09,ne
+Peru,SAmerica,44.0,31.87,ne
+Philippines,Asia,42.0,43.11,ne
+Qatar,Asia,67.0,32.86,sel
+Romania,Europe,41.0,23.05,ne
+Russia,Eurasia,80.0,43.42,sel
+Saudi Arabia,Asia,84.0,56.88,sub
+Singapore,Asia,67.0,43.43,ne
+South Korea,Asia,32.0,24.48,ne
+Sri Lanka,Asia,72.0,56.59,ne
+Sudan,Africa,78.0,70.06,sel
+Sweden,Europe,10.0,9.23,ne
+Syria,Asia,89.0,78.53,per
+Tajikistan,Asia,79.0,35.71,sel
+Thailand,Asia,60.0,38.6,sel
+Tunisia,Africa,51.0,39.93,ne
+Turkey,Eurasia,55.0,46.56,sel
+Turkmenistan,Asia,96.0,79.14,per
+Uganda,Africa,57.0,31.69,ne
+Ukraine,Europe,59.0,36.79,ne
+United Arab Emirates,Asia,72.0,33.49,sub
+United Kingdom,Europe,21.0,16.89,ne
+United States,NAmerica,18.0,18.22,ne
+Uzbekistan,Asia,95.0,60.39,per
+Venezuela,SAmerica,76.0,34.44,ne
+Vietnam,Asia,84.0,71.78,per
+Yemen,Asia,83.0,69.22,sub
+Zimbabwe,Africa,80.0,38.12,ne
